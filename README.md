@@ -20,7 +20,7 @@ To set up the project environment, follow these steps:
    ```
 4. Navigate to the project directory and install additional dependencies:
    ```
-   cd your_project
+   cd road_damage(2)
    pip install -r requirements.txt
    ```
 
