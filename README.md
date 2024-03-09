@@ -1,10 +1,6 @@
 # Road_damage
- Was not able to upload the file on github due to size
- have uploaded in drive
- 
-#Here's the modified documentation without the conclusion and references sections:
-
----
+# Was not able to upload the file on github due to size
+# I have uploaded in drive
 
 ## Road Damage Detection with Faster R-CNN Documentation
 
