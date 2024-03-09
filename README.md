@@ -18,11 +18,7 @@ To set up the project environment, follow these steps:
    ```
    git clone https://github.com/kavyav12/Road_damage.git
    ```
-4. Navigate to the project directory and install additional dependencies:
-   ```
-   cd road_damage(2)
-   pip install -r requirements.txt
-   ```
+
 
 ### 3. Data Preparation
 Prepare the road damage dataset for training the Faster R-CNN model:
